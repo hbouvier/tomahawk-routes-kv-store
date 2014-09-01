@@ -1,0 +1,24 @@
+{
+  "name": "tomahawk-routes-kv-store",
+  "version": "0.0.0",
+  "description": "Tomahawk REST routes for a Key Value pair store.",
+  "main": "lib/routes.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/hbouvier/tomahawk-routes-kv-store.git"
+  },
+  "keywords": [
+    "Tomahawk",
+    "Key",
+    "Value"
+  ],
+  "author": "Henri Bouvier",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hbouvier/tomahawk-routes-kv-store/issues"
+  },
+  "homepage": "https://github.com/hbouvier/tomahawk-routes-kv-store"
+}
