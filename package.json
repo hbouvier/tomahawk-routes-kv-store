@@ -1,8 +1,11 @@
 {
   "name": "tomahawk-routes-kv-store",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "Tomahawk REST routes for a Key Value pair store.",
   "main": "lib/routes.js",
+  "bin": {
+    "kv-store-plugin": "./bin/kv-store-plugin"
+  },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
