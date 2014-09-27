@@ -1,6 +1,6 @@
 {
   "name": "tomahawk-routes-kv-store",
-  "version": "0.0.4",
+  "version": "0.0.5",
   "description": "Tomahawk REST routes for a Key Value pair store.",
   "main": "lib/routes.js",
   "bin": {
